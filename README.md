@@ -1,5 +1,4 @@
 # code-and-chill
-<h1> Author-Akrati</h1>
 Building cool stuff because why not? 🚀 CSS flexbox &amp; grid doing heavy lifting.
 <br>
 # Hey there! 👋

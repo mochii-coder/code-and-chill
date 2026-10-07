@@ -1,5 +1,5 @@
 # code-and-chill
-<br> <br>
+<h1> Author-Akrati</h1>
 Building cool stuff because why not? 🚀 CSS flexbox &amp; grid doing heavy lifting
 # Hey there! 👋
 Welcome! **This is my first repository** 🚀
